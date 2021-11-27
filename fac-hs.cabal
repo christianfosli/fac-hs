@@ -57,4 +57,5 @@ test-suite fac-hs-test
   build-depends:
       base >=4.7 && <5
     , fac-hs
+    , hspec
   default-language: Haskell2010
